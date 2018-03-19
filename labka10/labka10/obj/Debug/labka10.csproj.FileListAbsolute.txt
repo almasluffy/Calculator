@@ -1,0 +1,7 @@
+C:\Users\Алмас\source\repos\labka10\labka10\obj\Debug\labka10.csprojResolveAssemblyReference.cache
+C:\Users\Алмас\source\repos\labka10\labka10\obj\Debug\labka10.csproj.CoreCompileInputs.cache
+C:\Users\Алмас\source\repos\labka10\labka10\bin\Debug\labka10.exe.config
+C:\Users\Алмас\source\repos\labka10\labka10\bin\Debug\labka10.exe
+C:\Users\Алмас\source\repos\labka10\labka10\bin\Debug\labka10.pdb
+C:\Users\Алмас\source\repos\labka10\labka10\obj\Debug\labka10.exe
+C:\Users\Алмас\source\repos\labka10\labka10\obj\Debug\labka10.pdb
